@@ -1,0 +1,10 @@
+{
+  "name": "iCosmos机器唯一ID",
+  "outputfilename": "iCosmos机器唯一ID",
+  "frontend:install": "",
+  "frontend:build": "",
+  "author": {
+    "name": "王新勇(Tacey Wong)",
+    "email": "xinyong.w@gmail.com"
+  }
+}
